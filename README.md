@@ -1,5 +1,5 @@
 ## ✨ Hey there! Welcome to my GitHub! ✨
-I am a third year bachelor student in Computer Science and Engineering, specialising in the Internet of Things. 
+Third year bachelor student in Computer Science and Engineering, specialising in the Internet of Things. 
 <br>Some courses included in my program are: Programming, Math, Electrical Circuitry, Computer Communication, Sensor Technology, Wireless Communications, Cyber Security, Android App Programming, and more! 
 
 I love anything *sensors*, *circuits*, *wireless*, *cloud*, *UI*, *simplistic* and *artsy*.
@@ -30,10 +30,10 @@ Languages I’ve Worked With:
   </ul>
   
 <p>
-  <img src="https://media1.tenor.com/m/OroVCOXbuUUAAAAC/sadhamstergirl.gif" alt="Cute Bunny" style="width: 200px; margin-top: 20px;">
-  <img src="https://media1.tenor.com/m/OroVCOXbuUUAAAAC/sadhamstergirl.gif" alt="Cute Bunny" style="width: 200px; margin-top: 20px;">
-  <img src="https://media1.tenor.com/m/OroVCOXbuUUAAAAC/sadhamstergirl.gif" alt="Cute Bunny" style="width: 200px; margin-top: 20px;">
-  <img src="https://media1.tenor.com/m/OroVCOXbuUUAAAAC/sadhamstergirl.gif" alt="Cute Bunny" style="width: 200px; margin-top: 20px;">
+  <img src="https://media1.tenor.com/m/OroVCOXbuUUAAAAC/sadhamstergirl.gif" alt="Cute Bunny" style="width: 180px; margin-top: 20px;">
+  <img src="https://media1.tenor.com/m/OroVCOXbuUUAAAAC/sadhamstergirl.gif" alt="Cute Bunny" style="width: 180px; margin-top: 20px;">
+  <img src="https://media1.tenor.com/m/OroVCOXbuUUAAAAC/sadhamstergirl.gif" alt="Cute Bunny" style="width: 180px; margin-top: 20px;">
+  <img src="https://media1.tenor.com/m/OroVCOXbuUUAAAAC/sadhamstergirl.gif" alt="Cute Bunny" style="width: 180px; margin-top: 20px;">
 </p>
 
 
