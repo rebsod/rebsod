@@ -24,7 +24,7 @@ Languages I’ve Worked With:
     <li>🟩 🐾 <strong>Pet Enthusiast</strong>: <sub>My pets own the house; I just pay the rent. People say I need boundaries, but honestly, the pets make the rules. 🐰🐹</sub></li>
     <li>🟦 🌄 <strong>Outback Survivor</strong>: <sub>I survived living in rural Australia, even though being chased by insects was a daily thing 🦗🏆</sub></li>
     <li>🟧 🚗 <strong>Arduino Wiz</strong>: <sub>I managed to program an Arduino car to follow a track without crashing (group project) 🎉</sub></li>
-    <li>🟫 ☕ <strong>Espresso & Cocktail Master</strong>: <sub>I make great espressos and cocktails (but drink neither), J.K. Rowling agrees (I've served her twice).</sub></li>
+    <li>🟫 ☕ <strong>Espresso & Cocktail Master</strong>: <sub>I make great espressos and cocktails, J.K. Rowling agrees (I've served her twice).</sub></li>
     <li>🟨 🎨 <strong>Pixel Art Aspirant</strong>: <sub>I’m diving into the world of pixel art and trying to create my own unique designs!</sub></li>
     <li>🟪 📖 <strong>Published Mention</strong>: <sub>I’ve been featured in an author's book—now I can say I'm a published person!</sub></li>
   </ul>
